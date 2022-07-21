@@ -1,18 +1,20 @@
 ![MasterHead](https://robodk.com/blog/wp-content/uploads/2018/05/Programming-Language-PNG-Download-Image.png)
-
-<h1 align="center">Hi 👋, I'm Suraj Rawat</h1>
-<h3 align="center">Software developer keen to learn more.</h3>
-
+<h1 align="center">Hi, I am Suraj Rawat.</h1>
+<h3 align="center">Software developer keen to learn more about technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://clipclip.com/wp-content/uploads/elementor/thumbs/cc-programmer-2-ovmwuk5y3uzvblmccxrq3c3qzzvodph9skmt3g579c.png">
+
 
 - 🔭 I’m currently working on **Persistent Systems**
 
-- 🌱 I’m currently learning **React JS.**
+- 🌱 I’m currently learning **Spring boot.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Surajrawat1709](https://github.com/Surajrawat1709)
 
 - 📫 How to reach me **surajrawat1709@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-singh-rawat-987461197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-singh-rawat-987461197" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
