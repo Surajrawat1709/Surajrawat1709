@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://clipclip.com/wp-content/uploads/elementor/thumbs/cc-programmer-2-ovmwuk5y3uzvblmccxrq3c3qzzvodph9skmt3g579c.png">
 
 
-- 🔭 I’m currently working on **Persistent Systems**
+- 🔭 I’m currently working in **Persistent Systems**
 
 - 🌱 I’m currently learning **Spring boot.**
 
