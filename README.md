@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in **Persistent Systems**
 
-- 🌱 I’m currently learning **Spring boot.**
+- 🌱 I’m currently learning **AWS.**
 
 
 
